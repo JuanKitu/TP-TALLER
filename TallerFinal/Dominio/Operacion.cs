@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TallerFinal.Dominio
 {
@@ -6,7 +8,9 @@ namespace TallerFinal.Dominio
    {
 
       // Atributos
-      private int id;
+      [Key]
+      [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+      private readonly int id;
       private string dniCliente;
       private String descripcion;
       private TimeSpan tiempo;
@@ -15,8 +19,7 @@ namespace TallerFinal.Dominio
       // Propiedades
       public int Id
       {
-         get { return id; }
-         set { id = value; }
+         get; set;
       }
 
       public string DNICliente
@@ -48,9 +51,8 @@ namespace TallerFinal.Dominio
       }
 
       // Constructor
-      public Operacion(int pId, string pDNICliente, string pDescripcion, TimeSpan pTiempo, bool pFallida)
+      public Operacion(string pDNICliente, string pDescripcion, TimeSpan pTiempo, bool pFallida)
       {
-         this.Id = pId;
          this.DNICliente = pDNICliente;
          this.Descripcion = pDescripcion;
          this.Tiempo = pTiempo;
