@@ -6,11 +6,11 @@ namespace TallerFinal
 {
    public class Controlador
    {
-      private IServicios iAdaptadorServicios;
+      private readonly IServicios iAdaptadorServicios;
 
       public Controlador()
       {
-         iAdaptadorServicios = new AdaptadorServicios();
+         iAdaptadorServicios = new AdaptadorServicios(FetchUrl);
       }
 
       /// <summary>

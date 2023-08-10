@@ -11,12 +11,17 @@ namespace TallerFinal
 {
    class AdaptadorServicios : ServiciosConBitacora , IServicios
    {
+      private readonly IWebApiClient _webApiClient;
       /// <summary>
       /// Servicio 1
       /// </summary>
       /// <param name="pDni"></param>
       /// <param name="pClave"></param>
       /// <returns></returns>
+      public AdaptadorServicios(IWebApiClient webApiClient)
+      {
+         _webApiClient = webApiClient;
+      }
       public ClienteDTO ValidarCliente(string pDni, string pClave)
       {
          ClienteDTO dTO = new ClienteDTO();
@@ -31,7 +36,7 @@ namespace TallerFinal
 
          try
          {
-            dynamic response = FetchUrl.GetObject(mUrl);
+            dynamic response = _webApiClient.GetObject(mUrl);
 
             if (response.Count >= 1)
             {
@@ -76,7 +81,7 @@ namespace TallerFinal
 
          try
          {
-            dynamic response = FetchUrl.GetObject(mUrl);
+            dynamic response = _webApiClient.GetObject(mUrl);
 
             if (response.Count >= 1)
             {
@@ -129,7 +134,7 @@ namespace TallerFinal
 
          try
          {
-            dynamic response = FetchUrl.GetObject(url);
+            dynamic response = _webApiClient.GetObject(url);
             if (response.Count >= 1)
             {
                if (response[0].response.error != "0")
@@ -168,7 +173,7 @@ namespace TallerFinal
 
          try
          {
-            dynamic response = FetchUrl.GetObject(url);
+            dynamic response = _webApiClient.GetObject(url);
             if (response.Count >= 1)//Si hay respuesta
             {
                return response[0].response.balance;
@@ -205,7 +210,7 @@ namespace TallerFinal
 
          try
          {
-            dynamic response = FetchUrl.GetObject(url);
+            dynamic response = _webApiClient.GetObject(url);
 
             if (response.Count >= 1)
             {

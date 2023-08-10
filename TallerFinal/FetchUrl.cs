@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace TallerFinal
 {
-   public static class FetchUrl
+   public static class FetchUrl : IWebApiClient
    {
       public static dynamic GetObject(string url)
       {
