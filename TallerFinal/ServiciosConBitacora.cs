@@ -27,7 +27,7 @@ namespace TallerFinal
          }
       }
 
-      private void RegistrarOperacion(string pDni, string pDescripcion, Stopwatch pTimer, bool pFallida)
+      public void RegistrarOperacion(string pDni, string pDescripcion, Stopwatch pTimer, bool pFallida)
       {
          pTimer.Stop();
          try

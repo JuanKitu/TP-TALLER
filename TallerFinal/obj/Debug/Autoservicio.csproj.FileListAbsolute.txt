@@ -1,20 +1,40 @@
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\EntityFramework.dll
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\EntityFramework.xml
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\Autoservicio.csproj.AssemblyReference.cache
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\TallerFinal.InterfazUsuario.BlanqueoPIN.resources
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\TallerFinal.Ingreso.resources
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\TallerFinal.InterfazUsuario.Operaciones.resources
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\TallerFinal.InterfazUsuario.UltimosMovimientos.resources
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\Autoservicio.csproj.GenerateResource.cache
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\Autoservicio.csproj.CoreCompileInputs.cache
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\Autoservicio.csproj.CopyComplete
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\TallerFinal.exe.config
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\TallerFinal.exe
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\bin\Debug\TallerFinal.pdb
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\TallerFinal.Properties.Resources.resources
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\TallerFinal.exe
-C:\Users\Windows\Desktop\TallerFinal-master\TallerFinal-master\Código fuente\TallerFinal\obj\Debug\TallerFinal.pdb
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/EntityFramework.dll
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/EntityFramework.SqlServer.dll
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/EntityFramework.xml
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/EntityFramework.SqlServer.xml
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/Autoservicio.csproj.AssemblyReference.cache
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/TallerFinal.InterfazUsuario.BlanqueoPIN.resources
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/TallerFinal.Ingreso.resources
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/TallerFinal.InterfazUsuario.Operaciones.resources
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/TallerFinal.InterfazUsuario.UltimosMovimientos.resources
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/Autoservicio.csproj.GenerateResource.cache
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/Autoservicio.csproj.CoreCompileInputs.cache
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/Autoservicio.csproj.CopyComplete
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/TallerFinal.exe.config
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/TallerFinal.exe
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/bin/Debug/TallerFinal.pdb
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/TallerFinal.Properties.Resources.resources
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/TallerFinal.exe
+C:/Users/Windows/Desktop/TallerFinal-master/TallerFinal-master/Código fuente/TallerFinal/obj/Debug/TallerFinal.pdb
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/Autoservicio.csproj.AssemblyReference.cache
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/TallerFinal.InterfazUsuario.BlanqueoPIN.resources
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/TallerFinal.Ingreso.resources
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/TallerFinal.InterfazUsuario.Operaciones.resources
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/TallerFinal.InterfazUsuario.UltimosMovimientos.resources
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/TallerFinal.Properties.Resources.resources
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/Autoservicio.csproj.GenerateResource.cache
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/Autoservicio.csproj.CoreCompileInputs.cache
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/TallerFinal.exe
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/TallerFinal.pdb
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/TallerFinal.exe.config
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/TallerFinal.exe
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/TallerFinal.pdb
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/EntityFramework.dll
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/EntityFramework.SqlServer.dll
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/Newtonsoft.Json.dll
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/EntityFramework.xml
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/EntityFramework.SqlServer.xml
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/bin/Debug/Newtonsoft.Json.xml
+/Users/francisco/Documents/GitHub/TP-TALLER/TallerFinal/obj/Debug/Autoservicio.csproj.CopyComplete

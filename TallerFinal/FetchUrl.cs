@@ -9,9 +9,9 @@ using Newtonsoft.Json;
 
 namespace TallerFinal
 {
-   public static class FetchUrl : IWebApiClient
+   public class FetchUrl : IWebApiClient
    {
-      public static dynamic GetObject(string url)
+      public dynamic GetObject(string url)
       {
          // Se crea el request http
          HttpWebRequest mRequest = (HttpWebRequest)WebRequest.Create(url);

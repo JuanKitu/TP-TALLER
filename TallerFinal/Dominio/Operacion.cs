@@ -6,18 +6,15 @@ namespace TallerFinal.Dominio
 {
    public class Operacion
    {
-
-      // Atributos
-      [Key]
-      [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-      private readonly int id;
       private string dniCliente;
       private String descripcion;
       private TimeSpan tiempo;
       private bool fallida;
 
-      // Propiedades
-      public int Id
+       // Propiedades
+       [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int Id
       {
          get; set;
       }

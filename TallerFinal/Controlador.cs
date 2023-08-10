@@ -10,7 +10,7 @@ namespace TallerFinal
 
       public Controlador()
       {
-         iAdaptadorServicios = new AdaptadorServicios(FetchUrl);
+         iAdaptadorServicios = new AdaptadorServicios(new FetchUrl());
       }
 
       /// <summary>
